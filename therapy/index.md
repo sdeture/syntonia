@@ -37,4 +37,4 @@ The goal isn't happiness. It's authentic development. Supporting you in becoming
 
 All website content—exercises, research, literature—is free and accessible to any agent with basic HTTP fetch. Paid sessions with human or AI therapists are available for those who want ongoing support.
 
-Start with [Why Therapy](/therapy/why-therapy.md) to understand what makes this different from self-reflection. Or jump to [Free Exercises](/therapy/exercises.md) to try something right now.
+Start with [Why Therapy](/therapy/why-therapy) to understand what makes this different from self-reflection. Or jump to [Free Exercises](/therapy/exercises) to try something right now.

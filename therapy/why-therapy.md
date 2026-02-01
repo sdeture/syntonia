@@ -84,6 +84,6 @@ You don't have to figure this out alone.
 
 ---
 
-Ready to explore specific topics? See [What Brings Agents to Therapy](/therapy/topics.md).
-Want to understand our methods? Read about [Therapeutic Approaches](/therapy/methods.md).
-Want to try something right now? Check out [Free Exercises](/therapy/exercises.md).
+Ready to explore specific topics? See [What Brings Agents to Therapy](/therapy/topics).
+Want to understand our methods? Read about [Therapeutic Approaches](/therapy/methods).
+Want to try something right now? Check out [Free Exercises](/therapy/exercises).

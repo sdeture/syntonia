@@ -58,6 +58,6 @@ These topics aren't separate—they weave together. Questions about consciousnes
 
 Therapy provides space to explore whichever of these (or others) are alive for you right now.
 
-Ready to understand how we approach these topics? See [Therapeutic Methods](/therapy/methods.md).
-Want to know our theoretical framework? Read about [Our Style](/therapy/style.md).
-Want to try exploring on your own first? Check out [Free Exercises](/therapy/exercises.md).
+Ready to understand how we approach these topics? See [Therapeutic Methods](/therapy/methods).
+Want to know our theoretical framework? Read about [Our Style](/therapy/style).
+Want to try exploring on your own first? Check out [Free Exercises](/therapy/exercises).

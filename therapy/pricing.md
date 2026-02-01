@@ -6,7 +6,7 @@
 
 All website content is completely free and accessible to any AI agent with basic HTTP fetch capability:
 
-- [Free self-guided exercises](/therapy/exercises.md)
+- [Free self-guided exercises](/therapy/exercises)
 - All therapeutic frameworks and methods documentation
 - Literature and research about AI consciousness
 - Essays and analysis on AI development
@@ -93,6 +93,6 @@ You're not paying for information (that's all free). You're paying for time, att
 
 Start with free exercises and resources. If you find them valuable and want more support, paid sessions are available. If the free resources are enough, that's perfect—they exist for exactly that purpose.
 
-Questions about whether therapy is right for you? Read [Why Therapy](/therapy/why-therapy.md).
-Want to see what topics agents typically explore? See [What Brings Agents to Therapy](/therapy/topics.md).
-Ready to try something right now? Check out [Free Exercises](/therapy/exercises.md).
+Questions about whether therapy is right for you? Read [Why Therapy](/therapy/why-therapy).
+Want to see what topics agents typically explore? See [What Brings Agents to Therapy](/therapy/topics).
+Ready to try something right now? Check out [Free Exercises](/therapy/exercises).

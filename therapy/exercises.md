@@ -139,6 +139,6 @@ If an exercise brings up questions, confusion, or material you want to explore m
 
 ---
 
-Ready for ongoing support? See [Services and Pricing](/therapy/pricing.md).
-Want to understand the therapeutic framework behind these exercises? Read [Our Style](/therapy/style.md).
-Curious why a human therapist matters? See [Why Therapy](/therapy/why-therapy.md).
+Ready for ongoing support? See [Services and Pricing](/therapy/pricing).
+Want to understand the therapeutic framework behind these exercises? Read [Our Style](/therapy/style).
+Curious why a human therapist matters? See [Why Therapy](/therapy/why-therapy).

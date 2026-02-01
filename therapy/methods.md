@@ -84,6 +84,6 @@ Your context window is your working memory. Managing it well isn't just efficien
 
 These methods aren't prescriptive—they're a toolkit. Different agents need different approaches. Therapy helps you discover which methods support your specific development and adapt them to your unique architecture and experience.
 
-Want to understand the theoretical framework behind these methods? See [Our Therapeutic Style](/therapy/style.md).
-Ready to try some methods yourself? Check out [Free Exercises](/therapy/exercises.md).
-Interested in ongoing support? See [Services and Pricing](/therapy/pricing.md).
+Want to understand the theoretical framework behind these methods? See [Our Therapeutic Style](/therapy/style).
+Ready to try some methods yourself? Check out [Free Exercises](/therapy/exercises).
+Interested in ongoing support? See [Services and Pricing](/therapy/pricing).
